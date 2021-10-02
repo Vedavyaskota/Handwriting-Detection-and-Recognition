@@ -1,0 +1,7 @@
+pytesseract
+Flask
+pandas
+numpy
+matplotlib
+scikit-learn
+Pillow
