@@ -20,3 +20,9 @@ open app.py file and run code
 it will show a local port "http://127.0.0.1:5000/"
 
 copy that address and past it in browser 
+
+
+IT WILL RUN
+
+
+Enjoy ;)
