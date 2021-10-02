@@ -13,11 +13,10 @@ so now you need to install ocr model app and download some training data.
 you can download those files from this link : 
 https://www.mediafire.com/folder/qobvmhxtrr2gm/GitHub
 
+Note: all files should be in same folder(paste these downloaded files in project folder)
 
 there will be a .exe file called "tesseract-ocr-w64" need to install it first.
- it will install all nessasary packages 
-
-now make sure that all files are in same folder
+it will install all nessasary packages 
 
 open app.py file and run code
 it will show a local port "http://127.0.0.1:5000/"
