@@ -20,6 +20,6 @@ there will be a .exe file called "tesseract-ocr-w64" need to install it first.
 now make sure that all files are in same folder
 
 open app.py file and run code
-it will show a local called "http://127.0.0.1:5000/"
+it will show a local port "http://127.0.0.1:5000/"
 
 copy that address and past it in browser 
